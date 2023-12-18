@@ -1,0 +1,9 @@
+drug pair,predicted ddi_type,score
+Bivalirudin_Testosterone cypionate,40,0.9953925013542175
+Flunisolide_Daunorubicin,3,0.8696718811988831
+Etomidate_Alclofenac,11,0.9998499751091003
+Adenine_Estradiol acetate,2,0.9578867554664612
+Olanzapine_Dexibuprofen,2,0.9408988356590271
+Bivalirudin_Medrogestone,4,0.8409420847892761
+Bivalirudin_Dasatinib,31,0.9992725849151611
+Duloxetine_Safinamide,27,0.9238986968994141

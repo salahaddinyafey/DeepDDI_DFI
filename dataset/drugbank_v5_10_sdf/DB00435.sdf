@@ -1,0 +1,115 @@
+
+  Mrv1909 07102021182D          
+
+  2  1  0  0  0  0            999 V2000
+    0.8250    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+M  RAD  1   1   2
+M  END
+> <DATABASE_ID>
+DB00435
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[N]=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/NO/c1-2
+
+> <INCHI_KEY>
+MWUXSHHQAYIFBG-UHFFFAOYSA-N
+
+> <FORMULA>
+NO
+
+> <MOLECULAR_WEIGHT>
+30.0061
+
+> <EXACT_MASS>
+29.997988627
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+2
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.2241398451324946e-10
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+1.6908497027346385
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+nitroso
+
+> <JCHEM_LOGP>
+-0.3514
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9121689657156256
+
+> <JCHEM_POLAR_SURFACE_AREA>
+34.14
+
+> <JCHEM_REFRACTIVITY>
+2.8858
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethane
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB00435
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01142
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Nitric Oxide
+
+> <SYNONYMS>
+EDRF; endothelium-derived relaxing factor; Mononitrogen monoxide; Monóxido de nitrógeno; Monoxyde d'azote; Nitric Oxide; Nitrogen monooxide; Nitrogen monoxide; Nitrosyl; NO; óxido de nitrógeno(II); óxido nítrico; Oxyde azotique; Oxyde nitrique; Stickstoff(II)-oxid; Stickstoffmonoxid
+
+> <PRODUCTS>
+695801540; Bio NO Brain Care (Helps improve Brain blood flow and body temperature, Fermented Garlic powder); Bio NO Pharm V (Helps improve metabolic disorder and immunity, Lettuce fermented powder); Bio NO V Plus (Helps improve matabolic disorder, Bean sprout powder); Bio NO V Puls (Helps improve matabolic disorder, Bean sprout powder); Bio NO more Joint Pain (Helps improve osteoarthritis and Immunity, Soybean and oplopanax elatus Nakai fermented powder); Bio NO more Joint Pain (Helps improve osteoarthritis and immunity, Soybean fermented powder and Oplopanax elatus nakai extract powder); Bio NO more Menopause (Helps improve menopouse and Immunity, Soybean fermented powder); Bio NO more Yeast infection (Helps improve vaginal yeast infection, fermented Cabbage powder); Dr. GNO (Helps cleanse sensitive skin, clears skin troubles, especially acne, fermented cabbage extract, mesoporous silica nanoparticle zinc); Dr. GNO All Care 200 (Brightening, Wrinckle care, and Moisturizing effect, Pain relief, Acne Treatment, Fermented Cabbage Extract); Dr. GNO All Care 500 (Brightening, Wrinckle care, and Moisturizing effect, Pain relief, Acne Treatment, Fermented Cabbage Extract); Dr. GNO All-Care 100 (Brightening, Wrinckle care, and Moisturizing effect, Pain relief, Acne Treatment, Fermented Cabbage Extract); Dr. GNO All-Care 50 (Brightening, Wrinckle care, and Moisturizing effect, Pain relief, Acne Treatment, Fermented Cabbage Extract); Dr. GNO All-in-One Cleanser (Prevents hairloss, Fermented lettuce, garlic, bean, cabbage, cricket Greentea leaf, Mulberry branch, leaf, and roots extract Mesoporous Silica Nanoparticle Zinc) Nitric Oxide, Dexpanthenol, Niacinamide, Salicylic acid, Zinc; Dr. GNO All-in-One Cleanser (Prevents hairloss, Fermented lettuce, garlic, bean, cabbage, cricket Greentea leaf, Mulberry branch, leaf, and roots extract Mesoporous Silica Nanoparticle, Zinc) Nitric Oxide, Dexpanthenol, Niacinamide, Salicylic acid, Zinc; Dr. GNO CLEANSER (Helps cleanse sensitive skin, clears skin troubles, especially acne, fermented cabbage extract, mesoporous silica nanoparticle, zinc); Dr. GNO Concentrated Ampoule (Wound recovery, Burn wound recovery, Acne Treatment, Fermented Lettuce Extract Concentrate); Dr. GNO Cooling Gel (Provides sense of cooling and pain relief, Acne Treatment, Fermented Cabbage Extract); Dr. GNO Deep Moisturizing Cream (Brightening, Wrinckle care, and Moisturizing effect, Acne Treatment, Fermented Cabbage Extract, Mesoporous Silica Nanoparticle Zinc Gold); Dr. GNO Deep Moisturizing Cream (Brightening, Wrinckle care, and Moisturizing effect, Acne Treatment, Fermented Cabbage Extract, Mesoporous Silica Nanoparticle, Zinc, Gold); Dr. GNO Deep Moisturizing Essence (Brightening, Wrinckle care, and Moisturizing effect, Acne Treatment, Fermented Cabbage Extract, Mesoporous Silica Nanoparticle, Zinc, Gold); Dr. GNO Deep Moisturizing Mist (Brightening, Wrinckle care, and Moisturizing effect, Acne Treatment, Fermented Cabbage Extract, Mesoporous Silica Nanoparticle Zinc Gold); Dr. GNO Deep Moisturizing Mist (Brightening, Wrinckle care, and Moisturizing effect, Acne Treatment, Fermented Cabbage Extract, Mesoporous Silica Nanoparticle, Zinc, Gold); Dr. GNO Essence (Brightening, Wrinckle care, and Moisturizing effect, Acne treatment, Fermented Lettuce Extract); Dr. GNO Premium Soothing Gel (Brightening, Wrinckle care, and Moisturizing effect, Acne treatment, Fermented Lettuce Extract); Dr. GNO Recovery Oil (Brightening, Wrinckle care, and Moisturizing effect, Acne Treatment, Fermented Cabbage Extract); Dr. GNO Refreshing Mist (For skin care, and dry skin, safe to use it in the eye, Acne treatment, Fermented Sunflower seed Extract); Dr. GNO Warming Gel (Provides sense of heating and pain relieft, Fermented Cabbage Extract); Dr. NO I (Wound recovery, Burn wound recovery, Acne Treatment, Fermented Lettuce Extract Concentrate); Dr. NO II (Wound recovery, Burn wound recovery, Acne Treatmentm Fermented Lettuce Extract Concentrate); Dr. NOtatione Pet care (Helps improve metabolic disorder, Cabbage fermented powder); Genosyl; Hexalong NO (Helps hematopoiesis and immunity, Hexalong fermented powder); IBSIBD NO 180 Start (Helps improve intestinal healthy and immunity, Lettuce and Soybean fermented powder); INOmax; Inomax; Kinox; NO (Improves gum disease, gum health, breath); NO Care (Helps improve matabolic disorder, Lettuce fermented powder); NO DENTAL CARE (Improves gum disease, gum health, breath); NO Happy Dream (Helps improve sleep, lettuce and chamomile fermented powder); NO MORE DRIP FOR NOSE COMFORT (Relieves nasal congestion, sinus congestion, rehydrate nasal passages, allergy relief, concentrated lettuce fermentation); NO more Drip (Relieves nasal congestion, sinus congestion, rehydrate nasal passages, allergy relief, concentrated lettuce fermentation); NO more Eye Pain (Relieves dryness of the eye, Protects against irritaion of the eye) redness of the eye, Concentrated Cabbage fermentation solubles); NOW st; Nitric Oxide Nitrogen Mix; Noxivent; Noxivent 101; Noxivent 102; OIC Premium NO 365 (Helps improve matabolic disorder, Bean sprout powder); Renair (Prevents hairloss, fermented lettuce, garlic, bean, cabbage, cricket greentea leaf,mulberry branch, leaf, and roots extract); Renair Renaissance In Hair (Prevents hairloss, fermented lettuce, garlic, bean, cabbage, cricket greentea leaf,mulberry branch, leaf, and roots extract); Top NO Care Ultra (Helps improve matabolic disorder, Lettuce fermented powder); Top NO Doctors (Helps improve matabolic disorder, Bean sprout powder); Ulspira
+
+$$$$

@@ -1,0 +1,188 @@
+
+  Mrv2304 07252316032D          
+
+ 36 38  0  0  1  0            999 V2000
+    0.5108   -7.3463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1023   -6.7943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9093   -6.9658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3218   -6.2514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7698   -5.6383    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0161   -5.9738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6984   -5.5613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6984   -4.7363    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4128   -5.9738    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1273   -5.5613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8418   -5.9738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8418   -6.7988    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5563   -5.5613    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2707   -5.9738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9852   -5.5613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6997   -5.1488    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5727   -4.8469    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3977   -6.2758    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1423   -6.1651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6943   -6.7782    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4480   -6.4427    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3618   -5.6222    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.5548   -5.4507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1669   -5.4422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7253   -6.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5304   -5.8695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0889   -6.4768    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7772   -5.0823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5823   -4.9023    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2187   -4.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4654   -3.6877    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4136   -4.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6249   -4.8403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8880   -4.0584    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8430   -4.5771    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2974   -4.3624    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  2  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+  4 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 22 21  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 22 24  1  6  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  2  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 30  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 30 32  2  0  0  0  0
+ 24 32  1  0  0  0  0
+ 22 33  1  1  0  0  0
+ 33 34  1  0  0  0  0
+ 33 35  1  0  0  0  0
+ 33 36  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB17992
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(SC(=C1)C1=NO[C@@](C1)(C1=CC(Cl)=C(Cl)C(Cl)=C1)C(F)(F)F)C(=O)NCC(=O)NCC(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H14Cl3F6N3O3S/c1-8-2-13(36-16(8)17(34)30-6-14(33)31-7-19(24,25)26)12-5-18(35-32-12,20(27,28)29)9-3-10(21)15(23)11(22)4-9/h2-4H,5-7H2,1H3,(H,30,34)(H,31,33)/t18-/m1/s1
+
+> <INCHI_KEY>
+HDKWFBCPLKNOCK-SFHVURJKSA-N
+
+> <FORMULA>
+C20H14Cl3F6N3O3S
+
+> <MOLECULAR_WEIGHT>
+596.75
+
+> <EXACT_MASS>
+594.9725646
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.2789707387933842
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+49.70605945778707
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-({3-methyl-5-[(5S)-5-(3,4,5-trichlorophenyl)-5-(trifluoromethyl)-4,5-dihydro-1,2-oxazol-3-yl]thiophen-2-yl}formamido)-N-(2,2,2-trifluoroethyl)acetamide
+
+> <JCHEM_LOGP>
+5.814786309
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.31553475231731
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.145887486328643
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.9365687900680736
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.79
+
+> <JCHEM_REFRACTIVITY>
+120.88589999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <JCHEM_TRADITIONAL_IUPAC>
+lotilaner
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB17992
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Lotilaner
+
+> <SYNONYMS>
+2-thiophenecarboxamide, 5-((5s)-4,5-dihydro-5-(3,4,5-trichlorophenyl)-5-(trifluoromethyl)-3-isoxazolyl)-3-methyl-n-(2-oxo-2-((2,2,2-trifluoroethyl)amino)ethyl)-; 3-methyi-n-(2-oxo-2-((2,2,2-trifluoroethyl)amino)ethyl)-5-((55)-5-(3,4,5-trichlorophenyl)-5-(trifluoromethyl)-4,5-dihydro-1,2-oxazol-3-yl)thiophene-2-carboxamide; Credelio; Lotilaner (ema epar: veterinary)
+
+> <PRODUCTS>
+Xdemvy
+
+$$$$

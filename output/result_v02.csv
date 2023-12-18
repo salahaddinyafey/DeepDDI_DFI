@@ -1,0 +1,9 @@
+drug1,drug2,interaction,score
+Bivalirudin,Testosterone cypionate,Testosterone cypionate may increase the anticoagulant activities of Bivalirudin.,0.9953925013542176
+Flunisolide,Daunorubicin,The risk or severity of adverse effects can be increased when Daunorubicin is combined with Flunisolide.,0.8696719408035278
+Etomidate,Alclofenac,The risk or severity of hypertension can be increased when Alclofenac is combined with Etomidate.,0.9998499751091005
+Adenine,Estradiol acetate,The metabolism of Adenine can be decreased when combined with Estradiol acetate.,0.957886815071106
+Olanzapine,Dexibuprofen,The metabolism of Olanzapine can be decreased when combined with Dexibuprofen.,0.9408987760543824
+Bivalirudin,Medrogestone,The therapeutic efficacy of Bivalirudin can be decreased when used in combination with Medrogestone.,0.8409420251846313
+Bivalirudin,Dasatinib,The risk or severity of bleeding and hemorrhage can be increased when Bivalirudin is combined with Dasatinib.,0.9992724657058716
+Duloxetine,Safinamide,The risk or severity of serotonin syndrome can be increased when Duloxetine is combined with Safinamide.,0.923898696899414

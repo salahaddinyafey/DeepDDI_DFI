@@ -1,0 +1,196 @@
+
+  Mrv1909 01302316162D          
+
+ 34 36  0  0  1  0            999 V2000
+   -0.0000   10.4786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    9.6536    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    9.2411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    8.4161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    8.0036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    8.4161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    8.0036    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    9.2411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    9.6536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    8.0036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    8.4161    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    7.1786    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    6.7661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    5.9411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    5.5286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    4.7036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    4.2911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.7036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    5.5286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.4661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3819    2.9812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270    2.1965    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6119    1.5291    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2763    0.7754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4324    1.6153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2529    1.7016    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5186    0.7948    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3461    2.4358    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3020    2.1965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1830    1.5291    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0470    2.9812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7376    3.2361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9091    4.0431    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3507    2.6841    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 22  1  0  0  0  0
+ 23 24  1  6  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 25 28  1  0  0  0  0
+ 22 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 29 31  2  0  0  0  0
+ 20 31  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 32 34  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB17472
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=C(C=C(F)C=C1)C(=O)NCC1=CC=C(C=C1)C1=NN([C@@H](C)C(F)(F)F)C(N)=C1C(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H21F4N5O3/c1-11(22(24,25)26)31-19(27)17(20(28)32)18(30-31)13-5-3-12(4-6-13)10-29-21(33)15-9-14(23)7-8-16(15)34-2/h3-9,11H,10,27H2,1-2H3,(H2,28,32)(H,29,33)/t11-/m0/s1
+
+> <INCHI_KEY>
+FWZAWAUZXYCBKZ-NSHDSACASA-N
+
+> <FORMULA>
+C22H21F4N5O3
+
+> <MOLECULAR_WEIGHT>
+479.436
+
+> <EXACT_MASS>
+479.158052208
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+2.6178744688059955e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.0082737862229
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-amino-3-(4-{[(5-fluoro-2-methoxyphenyl)formamido]methyl}phenyl)-1-[(2S)-1,1,1-trifluoropropan-2-yl]-1H-pyrazole-4-carboxamide
+
+> <ALOGPS_LOGP>
+3.17
+
+> <JCHEM_LOGP>
+3.35067832
+
+> <ALOGPS_LOGS>
+-5.10
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.956120589810205
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.27196520304826
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.4285527265695532
+
+> <JCHEM_POLAR_SURFACE_AREA>
+125.25999999999999
+
+> <JCHEM_REFRACTIVITY>
+127.89390000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.84e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-{[6-(4-aminobenzenesulfonamido)pyridin-3-yl]oxy}-3,4,5-trihydroxyoxane-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB17472
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Pirtobrutinib
+
+> <SYNONYMS>
+(s)-5-amino-3-(4-((5-fluoro-2-methoxybenzamido)methyl)phenyl)-1-(1,1,1-trifluoropropan-2-yl)-1h-pyrazole-4-carboxamide; 1h-pyrazole-4-carboxamide, 5-amino-3-(4-(((5-fluoro-2-methoxybenzoyl)amino)methyl)phenyl)-1-((1s)-2,2,2-trifluoro-1-methylethyl)-; 5-amino-3-(4-((5-fluoro-2-methoxybenzamido)methyl)phenyl)-1-((2s)-1,1,1-trifluoropropan-2-yl)-1h-pyrazole-4-carboxamide
+
+> <PRODUCTS>
+Jaypirca
+
+> <INTERNATIONAL_BRANDS>
+Jaypirca
+
+$$$$
